@@ -1,4 +1,4 @@
-// Code snippet #1
+git push origin <feature-branch-name>// Code snippet #1
 boolean isUserAuthorized = user.isSuperAdmin();
 if (!isUserAuthorized) {
     isUserAuthorized = isUserAdminOfEntity1();
